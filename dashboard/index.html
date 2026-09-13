@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="pl">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="Progres w martwym ciągu, przysiadzie i wyciskaniu na podstawie Garmin Connect." />
+    <meta property="og:title" content="Barbell Progress" />
+    <meta property="og:description" content="Trzy boje. Każdy trening. Konkretne liczby." />
+    <meta property="og:image" content="og.png" />
+    <link rel="icon" href="favicon.svg" />
+    <link rel="stylesheet" href="styles.css" />
+    <title>Barbell Progress</title>
+  </head>
+  <body>
+    <main class="shell">
+      <header class="topbar">
+        <div>
+          <p class="brand">BARBELL PROGRESS</p>
+          <p class="range" id="updated">Dane Garmin Connect</p>
+        </div>
+        <div class="status"><span></span>365 dni</div>
+      </header>
+      <nav class="tabs" id="tabs" aria-label="Wybierz ćwiczenie"></nav>
+      <div id="dashboard" class="loading">Wczytywanie wyników...</div>
+      <footer>Źródło: zsynchronizowane serie Garmin Connect.</footer>
+    </main>
+    <script src="app.js" defer></script>
+  </body>
+</html>

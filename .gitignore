@@ -1,0 +1,8 @@
+.garmin_tokens/
+exports/
+.venv/
+.matplotlib/
+__pycache__/
+*.pyc
+*.log
+.DS_Store
