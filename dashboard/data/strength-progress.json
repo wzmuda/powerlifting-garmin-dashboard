@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-09-14T11:58:18",
+  "generatedAt": "2026-10-13T16:40:04",
   "coverageStart": "2025-09-14",
-  "coverageEnd": "2026-09-14",
+  "coverageEnd": "2026-10-13",
   "exercises": [
     {
       "slug": "deadlift",
       "label": "Barbell Deadlift",
       "color": "#2878B5",
-      "setCount": 65,
-      "workoutCount": 21,
+      "setCount": 68,
+      "workoutCount": 22,
       "firstWorkout": "2025-11-03",
-      "lastWorkout": "2026-09-07",
-      "maxWeightChangeKg": 80.0,
+      "lastWorkout": "2026-10-09",
+      "maxWeightChangeKg": 70.0,
       "recordWeightKg": 130.0,
       "recordWeightDate": "2026-09-07",
       "workouts": [
@@ -161,6 +161,13 @@
           "setCount": 4,
           "maxWeightKg": 130.0,
           "tonnageKg": 2750.0
+        },
+        {
+          "date": "2026-10-09",
+          "sets": "120×5, 120×5, 120×5",
+          "setCount": 3,
+          "maxWeightKg": 120.0,
+          "tonnageKg": 1800.0
         }
       ]
     },
@@ -168,13 +175,13 @@
       "slug": "back_squat",
       "label": "Barbell Back Squat",
       "color": "#2E8B57",
-      "setCount": 95,
-      "workoutCount": 25,
+      "setCount": 99,
+      "workoutCount": 26,
       "firstWorkout": "2025-10-14",
-      "lastWorkout": "2026-09-11",
-      "maxWeightChangeKg": 60.0,
-      "recordWeightKg": 100.0,
-      "recordWeightDate": "2026-09-02",
+      "lastWorkout": "2026-10-05",
+      "maxWeightChangeKg": 70.0,
+      "recordWeightKg": 110.0,
+      "recordWeightDate": "2026-10-05",
       "workouts": [
         {
           "date": "2025-10-14",
@@ -350,6 +357,13 @@
           "setCount": 4,
           "maxWeightKg": 100.0,
           "tonnageKg": 2140.0
+        },
+        {
+          "date": "2026-10-05",
+          "sets": "70×5, 110×5, 110×5, 110×5",
+          "setCount": 4,
+          "maxWeightKg": 110.0,
+          "tonnageKg": 2000.0
         }
       ]
     },
@@ -357,13 +371,13 @@
       "slug": "bench_press",
       "label": "Barbell Bench Press",
       "color": "#C44E52",
-      "setCount": 69,
-      "workoutCount": 22,
+      "setCount": 72,
+      "workoutCount": 23,
       "firstWorkout": "2025-10-20",
-      "lastWorkout": "2026-09-09",
-      "maxWeightChangeKg": 32.0,
-      "recordWeightKg": 72.0,
-      "recordWeightDate": "2026-09-09",
+      "lastWorkout": "2026-10-07",
+      "maxWeightChangeKg": 35.0,
+      "recordWeightKg": 75.0,
+      "recordWeightDate": "2026-10-07",
       "workouts": [
         {
           "date": "2025-10-20",
@@ -518,6 +532,13 @@
           "setCount": 3,
           "maxWeightKg": 72.0,
           "tonnageKg": 850.0
+        },
+        {
+          "date": "2026-10-07",
+          "sets": "75×5, 72×4, 70×4",
+          "setCount": 3,
+          "maxWeightKg": 75.0,
+          "tonnageKg": 943.0
         }
       ]
     }
