@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-10-13T16:40:04",
+  "generatedAt": "2026-10-17T15:26:35",
   "coverageStart": "2025-09-14",
-  "coverageEnd": "2026-10-13",
+  "coverageEnd": "2026-10-17",
   "exercises": [
     {
       "slug": "deadlift",
       "label": "Barbell Deadlift",
       "color": "#2878B5",
-      "setCount": 68,
-      "workoutCount": 22,
+      "setCount": 72,
+      "workoutCount": 23,
       "firstWorkout": "2025-11-03",
-      "lastWorkout": "2026-10-09",
-      "maxWeightChangeKg": 70.0,
-      "recordWeightKg": 130.0,
-      "recordWeightDate": "2026-09-07",
+      "lastWorkout": "2026-10-17",
+      "maxWeightChangeKg": 100.0,
+      "recordWeightKg": 150.0,
+      "recordWeightDate": "2026-10-17",
       "workouts": [
         {
           "date": "2025-11-03",
@@ -168,6 +168,13 @@
           "setCount": 3,
           "maxWeightKg": 120.0,
           "tonnageKg": 1800.0
+        },
+        {
+          "date": "2026-10-17",
+          "sets": "140×5, 140×5, 140×5, 150×3",
+          "setCount": 4,
+          "maxWeightKg": 150.0,
+          "tonnageKg": 2550.0
         }
       ]
     },
@@ -175,10 +182,10 @@
       "slug": "back_squat",
       "label": "Barbell Back Squat",
       "color": "#2E8B57",
-      "setCount": 99,
-      "workoutCount": 26,
+      "setCount": 103,
+      "workoutCount": 27,
       "firstWorkout": "2025-10-14",
-      "lastWorkout": "2026-10-05",
+      "lastWorkout": "2026-10-14",
       "maxWeightChangeKg": 70.0,
       "recordWeightKg": 110.0,
       "recordWeightDate": "2026-10-05",
@@ -364,6 +371,13 @@
           "setCount": 4,
           "maxWeightKg": 110.0,
           "tonnageKg": 2000.0
+        },
+        {
+          "date": "2026-10-14",
+          "sets": "90×8, 110×5, 110×3, 100×5",
+          "setCount": 4,
+          "maxWeightKg": 110.0,
+          "tonnageKg": 2100.0
         }
       ]
     },
